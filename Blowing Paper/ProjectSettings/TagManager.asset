@@ -3,16 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Projectile Destroyer
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Air Jet
   - Water
   - UI
-  - 
-  - 
+  - Player
+  - Plane
   - 
   - 
   - 
