@@ -72,3 +72,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Blowing Paper/Library
 Blowing Paper/UserSettings/EditorUserSettings.asset
+Blowing Paper/ProjectSettings/ProjectSettings.asset
+Blowing Paper/Logs
