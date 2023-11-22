@@ -7,6 +7,7 @@ TagManager:
   - Projectile Destroyer
   - Air Jet
   - Obstacle
+  - Victory Collider
   layers:
   - Default
   - TransparentFX
